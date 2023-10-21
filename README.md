@@ -7,6 +7,7 @@ I'm a freelance Senior Frontend Developer currently getting my master's degree i
 
 💻 <b>Tech stack</b>
 - React.js + Typescript + Redux
+- 👩‍🎓 learning React Native
 - Python + PyTorch
 
 📫 <b>Reach me on</b> 
