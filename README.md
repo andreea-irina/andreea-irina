@@ -3,7 +3,7 @@
 
 💬 <b>About me</b>
 <br>
-I'm a freelance Senior Frontend Developer currently getting my master's degree in AI. This is my public portfolio for educational projects. 
+I'm a freelance Senior Frontend Developer. This is my public portfolio for educational projects. 
 
 💻 <b>Tech stack</b>
 - React.js + Typescript + Redux
