@@ -1,13 +1,13 @@
 ### Hi there 👋
-🙆‍♀️ In short, I am passionate about 1) building in start-ups, 2) helping others gain skills and 3) doing exciting things with my career.
+🙆‍♀️ In short, I am passionate about 1) building in start-ups, 2) helping others gain skills, and 3) doing exciting things with my career.
 
 💬 <b>About me</b>
 <br>
-I'm a freelance Senior Frontend Developer. This is my public portfolio for educational projects. 
+I have co-founded an AI Studio & I'm a Senior Frontend Developer. This is my public portfolio for educational projects. 
 
 💻 <b>Tech stack</b>
 - React.js + Typescript + Redux
-- 👩‍🎓 learning React Native
+- React Native
 - Python + PyTorch
 
 📫 <b>Reach me on</b> 
